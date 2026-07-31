@@ -15,3 +15,10 @@ ffmpeg -i input.mp4 -filter_complex \
 
 
 ```
+
+
+```
+
+set PATH=%PATH%;C:\ffmpeg\bin
+
+```
